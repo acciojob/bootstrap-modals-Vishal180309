@@ -1,2 +1,11 @@
+body {
+    margin: 20px;
+}
 
-/* Your CSS Code here. */
+#open-modal {
+    margin: 20px;
+}
+
+.modal-dialog-centered {
+    margin-top: 100px;
+}
